@@ -1,2 +1,5 @@
 řádek 1
 řádek 2
+řádek 3
+řádek X
+řádek po využítí git reset
