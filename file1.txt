@@ -3,3 +3,6 @@
 řádek 3
 řádek X
 řádek po využítí git reset
+
+TOTO JE ŘÁDEK Z NOVOU FUNKCIONALITOU. 
+
