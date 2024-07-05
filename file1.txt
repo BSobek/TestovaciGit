@@ -4,5 +4,4 @@
 řádek X
 řádek po využítí git reset
 
-TOTO JE ŘÁDEK Z NOVOU FUNKCIONALITOU. 
-
+toto je FEATURE1 branch na Githubu.com
