@@ -5,3 +5,5 @@
 řádek po využítí git reset
 
 toto je FEATURE1 branch na Githubu.com
+
+Another change
